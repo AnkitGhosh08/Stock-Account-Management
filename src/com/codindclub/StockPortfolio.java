@@ -4,7 +4,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class StockPortfolio {
-
     List<StockPortfolio> stocks = new ArrayList<StockPortfolio>();
 
     private String stockName;
